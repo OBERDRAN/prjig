@@ -1,0 +1,14 @@
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\bin\Debug\iesj.exe.config
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\bin\Debug\iesj.exe
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\bin\Debug\iesj.pdb
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\Iesj.formMembroCadastro.resources
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\Iesj.formMembroInicial.resources
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\Iesj.formMembroListar.resources
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\Iesj.formMembroListarBase.resources
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\Iesj.formMembroPrincipalBase.resources
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\Iesj.Properties.Resources.resources
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\3camadas.csproj.GenerateResource.cache
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\3camadas.csproj.CoreCompileInputs.cache
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\iesj.exe
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\iesj.pdb
+C:\Users\Oberdran\source\repos\desk\trescamadas\prjiesj\novo\Sistema3Camadas\obj\Debug\3camadas.csprojAssemblyReference.cache
